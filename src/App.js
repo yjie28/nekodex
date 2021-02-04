@@ -18,7 +18,7 @@ class App extends Component {
 
     /*  define 'this' in methods in the constructor
         
-        function.bind is a mehtod on any function that returns a new 
+        function.bind is a method on any function that returns a new 
         function where the context of 'this' is set to whatever we pass to it
         
         in this case, the context of 'this' is set to the 'this' keyword 
@@ -59,6 +59,7 @@ class App extends Component {
 
     return (
       <div className="App">
+        <h1>Nekodex</h1>
         <SearchBox
           placeholder="Search Cats..."
           handleChange={this.handleChange}
@@ -76,7 +77,7 @@ export default App;
  *  whatever is inside {} is JS expression
  *
  *  _state vs. props
- *  state becomes prop once it gets passed down to a coponent
+ *  state becomes prop once it gets passed down to a component
  *
  *  this.setState is an asynchronous function,
  *  if we want to do something with the state immediately after we set it,
