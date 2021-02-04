@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yjie28/nekodex/static/css/main.a783db24.chunk.css",
+    "main.js": "/yjie28/nekodex/static/js/main.b3a84b4e.chunk.js",
+    "main.js.map": "/yjie28/nekodex/static/js/main.b3a84b4e.chunk.js.map",
+    "runtime-main.js": "/yjie28/nekodex/static/js/runtime-main.dcc57081.js",
+    "runtime-main.js.map": "/yjie28/nekodex/static/js/runtime-main.dcc57081.js.map",
+    "static/js/2.b3c90d3a.chunk.js": "/yjie28/nekodex/static/js/2.b3c90d3a.chunk.js",
+    "static/js/2.b3c90d3a.chunk.js.map": "/yjie28/nekodex/static/js/2.b3c90d3a.chunk.js.map",
+    "static/js/3.93e575f0.chunk.js": "/yjie28/nekodex/static/js/3.93e575f0.chunk.js",
+    "static/js/3.93e575f0.chunk.js.map": "/yjie28/nekodex/static/js/3.93e575f0.chunk.js.map",
+    "index.html": "/yjie28/nekodex/index.html",
+    "static/css/main.a783db24.chunk.css.map": "/yjie28/nekodex/static/css/main.a783db24.chunk.css.map",
+    "static/js/2.b3c90d3a.chunk.js.LICENSE.txt": "/yjie28/nekodex/static/js/2.b3c90d3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc57081.js",
+    "static/js/2.b3c90d3a.chunk.js",
+    "static/css/main.a783db24.chunk.css",
+    "static/js/main.b3a84b4e.chunk.js"
+  ]
+}
